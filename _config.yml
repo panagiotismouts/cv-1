@@ -1,0 +1,10 @@
+title: Panagiotis Moutsiounas - CV
+email: p18mout@ionio.gr
+description: My Jekyll site where my CV is shown.
+baseurl: /cv-1
+url: ""
+github_username: panagiotismouts
+
+theme: jekyll-theme-midnight
+plugins:
+      -  jekyll-feed
