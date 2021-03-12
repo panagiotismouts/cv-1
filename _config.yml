@@ -5,6 +5,6 @@ baseurl: /cv-1
 url: ""
 github_username: panagiotismouts
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cadre
 plugins:
       -  jekyll-feed
